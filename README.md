@@ -2,7 +2,7 @@
 
 How do U.S. gasoline prices affect electric and hybrid vehicle adoption, and has that shift shown up in national vehicle emissions? This project analyzes 25 years of federal data (2000–2024) and builds regression models to forecast EV sales through 2030.
 
-**Notebook:** [`ev_market_analysis.ipynb`](ev_market_analysis.ipynb)
+**Notebook:** [`ev_market_analysis.ipynb`](EV%20Market%20%26%20Emissions%20Analysis%20%E2%80%93%20Data%20Science%20Final%20Project/ev_market_analysis.ipynb)
 
 ---
 
